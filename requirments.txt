@@ -1,0 +1,16 @@
+groq
+pyttsx3
+SpeechRecognition
+pyaudio
+pyautogui
+screen-brightness-control
+googlesearch-python
+psutil
+requests
+beautifulsoup4
+wikipedia
+colorama
+pycaw
+comtypes
+Pillow
+pyperclip
